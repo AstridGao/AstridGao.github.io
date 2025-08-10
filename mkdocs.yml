@@ -1,0 +1,8 @@
+site_name: 小高软件
+nav:
+  - 首页: index.md
+  - 钱迹: 钱迹.md
+  - 假装来电: 假装来电.md
+  - 椒盐音乐: 椒盐音乐.md
+  - Listen 1: Listen 1.md
+theme: material
