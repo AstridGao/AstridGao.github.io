@@ -1,9 +1,20 @@
 site_name: 小高软件
+site_author: 小高
+site_description: 分享各种免费好用软件
 nav:
   - 首页: index.md
-  - 钱迹: 钱迹.md
-  - 假装来电: 假装来电.md
-  - 椒盐音乐: 椒盐音乐.md
-  - Listen 1: Listen 1.md
-  - 音悦: 音悦.md
-theme: material
+  - 软件分享:
+    - Listen 1: software/Listen 1.md
+    - 假装来电: software/假装来电.md
+    - 椒盐音乐: software/椒盐音乐.md
+    - 钱迹: software/钱迹.md
+    - 音悦: software/音悦.md
+  - 博客:
+    - Linux系统: blog/Linux系统.md
+    - 必备软件: blog/必备软件.md
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
