@@ -1,6 +1,6 @@
-site_name: 小高软件
+site_name: 小高的博客
 site_author: 小高
-site_description: 分享各种免费好用软件
+site_description: 分享免费软件和有趣项目
 nav:
   - 首页: index.md
   - 软件分享:
